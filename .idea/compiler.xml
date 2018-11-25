@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="scm-eurekaclient" />
         <module name="scm-eurekaserver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="scm" target="1.8" />
+      <module name="scm-eurekaclient" target="1.8" />
       <module name="scm-eurekaserver" target="1.8" />
     </bytecodeTargetLevel>
   </component>

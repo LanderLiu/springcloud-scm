@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/scm.iml" filepath="$PROJECT_DIR$/scm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scm-eurekaclient/scm-eurekaclient.iml" filepath="$PROJECT_DIR$/scm-eurekaclient/scm-eurekaclient.iml" />
       <module fileurl="file://$PROJECT_DIR$/scm-eurekaserver/scm-eurekaserver.iml" filepath="$PROJECT_DIR$/scm-eurekaserver/scm-eurekaserver.iml" />
     </modules>
   </component>
